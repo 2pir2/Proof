@@ -1,0 +1,114 @@
+input point:  [0 -647 -213 506 180 -438 -390 -738 -884 384 -147 -219 -78 263]
+fullhiddenlayersize:  [14 14 14] [14 14]
+init codes, go and python:  1100001011111101111111111111 {1100001001}
+printing  false
+Error in Proving  initactcode :  <nil>
+Error in Proving  initactcode :  <nil>
+Error in Verifying  initactcode :  <nil>
+Error in Proving  verifypoly init :  <nil>
+Error in Proving  verifypoly init :  <nil>
+Error in Verifying  verifypoly init :  <nil>
+validinds:  [0 1 2 3 4 5 6 7 14 15 28 29]
+fullvalidinddict:  map[0:0 1:1 2:2 3:3 4:4 5:5 6:6 7:7 14:8 15:9 28:10 29:11]
+starting polytope:  1100001011111101111111111111
+Initial Polytope description A:  &{{28 14 [-97 107 -21 -58 -133 -61 -94 -45 149 125 -110 133 -86 -133 -4 7 -77 -20 98 -93 145 20 102 10 52 143 18 -18 -114 -79 -49 -127 -23 22 46 -92 46 -127 93 -122 -122 115 -120 77 93 -138 -33 -24 149 -47 -143 20 98 118 -137 133 53 -38 4 -32 -148 91 -36 119 -129 -3 25 81 41 43 -63 -135 -25 -51 -148 33 33 133 129 -118 -1 -45 91 -81 -10 42 35 17 -136 135 -41 120 -93 117 9 -97 -99 7 -106 103 136 -51 38 48 101 -26 133 -107 44 22 8 92 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -8001 12857 2947 -1832 -26661 13155 -11526 12535 -1605 23855 -6316 -3147 -18768 -8303 -9123 13599 4011 -2402 -28971 12643 -15748 9745 -665 23727 -9230 -3359 -19018 -9831 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0] 14} 28 14}
+Initial Polytope description b:  &{{28 [55 148 -7 -149 -128 -58 -64 146 0 0 0 0 0 0 -4190 -6260 0 0 0 0 0 0 0 0 0 0 0 0] 1}}
+Seen poly set :  Set{}
+New addition to seen polytopes:  1100001001
+Seen polytopes actual code:  []
+Init total facets:  10
+full valid inds:  [0 1 2 3 4 5 6 7 14 15]
+In init for index:  0
+Added element to facetpotpq  0
+Error in Proving  projection_normal_init :  <nil>
+Error in Proving  projection_normal_init :  <nil>
+Error in Verifying  projection_normal_init :  <nil>
+Init normal facet, distance:  -0.5378321281870208 &{{14 [-97 107 -21 -58 -133 -61 -94 -45 149 125 -110 133 -86 -133] 1}} 55 1100001011111101111111111111
+full valid inds:  [0 1 2 3 4 5 6 7 14 15]
+In init for index:  1
+Added element to facetpotpq  1
+Error in Proving  projection_normal_init :  <nil>
+Error in Proving  projection_normal_init :  <nil>
+Error in Verifying  projection_normal_init :  <nil>
+Init normal facet, distance:  -1.0251546422635454 &{{14 [-4 7 -77 -20 98 -93 145 20 102 10 52 143 18 -18] 1}} 148 1100001011111101111111111111
+full valid inds:  [0 1 2 3 4 5 6 7 14 15]
+In init for index:  2
+Added element to facetpotpq  2
+Error in Proving  projection_normal_init :  <nil>
+Error in Proving  projection_normal_init :  <nil>
+Error in Verifying  projection_normal_init :  <nil>
+Init normal facet, distance:  -0.011792798173126931 &{{14 [-114 -79 -49 -127 -23 22 46 -92 46 -127 93 -122 -122 115] 1}} -7 1100001011111101111111111111
+full valid inds:  [0 1 2 3 4 5 6 7 14 15]
+In init for index:  3
+Added element to facetpotpq  3
+Error in Proving  projection_normal_init :  <nil>
+Error in Proving  projection_normal_init :  <nil>
+Error in Verifying  projection_normal_init :  <nil>
+Init normal facet, distance:  -0.34731753199145304 &{{14 [-120 77 93 -138 -33 -24 149 -47 -143 20 98 118 -137 133] 1}} -149 1100001011111101111111111111
+full valid inds:  [0 1 2 3 4 5 6 7 14 15]
+In init for index:  4
+Added element to facetpotpq  4
+Error in Proving  projection_normal_init :  <nil>
+Error in Proving  projection_normal_init :  <nil>
+Error in Verifying  projection_normal_init :  <nil>
+Init normal facet, distance:  -0.34518730654362845 &{{14 [53 -38 4 -32 -148 91 -36 119 -129 -3 25 81 41 43] 1}} -128 1100001011111101111111111111
+full valid inds:  [0 1 2 3 4 5 6 7 14 15]
+In init for index:  5
+Added element to facetpotpq  5
+Error in Proving  projection_normal_init :  <nil>
+Error in Proving  projection_normal_init :  <nil>
+Error in Verifying  projection_normal_init :  <nil>
+Init normal facet, distance:  -0.6162691932863654 &{{14 [-63 -135 -25 -51 -148 33 33 133 129 -118 -1 -45 91 -81] 1}} -58 1100001011111101111111111111
+full valid inds:  [0 1 2 3 4 5 6 7 14 15]
+In init for index:  6
+Added element to facetpotpq  6
+Error in Proving  projection_normal_init :  <nil>
+Error in Proving  projection_normal_init :  <nil>
+Error in Verifying  projection_normal_init :  <nil>
+Init normal facet, distance:  -0.12286720776380144 &{{14 [-10 42 35 17 -136 135 -41 120 -93 117 9 -97 -99 7] 1}} -64 1100001011111101111111111111
+full valid inds:  [0 1 2 3 4 5 6 7 14 15]
+In init for index:  7
+Added element to facetpotpq  7
+Error in Proving  projection_normal_init :  <nil>
+Error in Proving  projection_normal_init :  <nil>
+Error in Verifying  projection_normal_init :  <nil>
+Init normal facet, distance:  -1.5245723336709185 &{{14 [-106 103 136 -51 38 48 101 -26 133 -107 44 22 8 92] 1}} 146 1100001011111101111111111111
+full valid inds:  [0 1 2 3 4 5 6 7 14 15]
+In init for index:  8
+Added element to facetpotpq  8
+Error in Proving  projection_normal_init :  <nil>
+Error in Proving  projection_normal_init :  <nil>
+Error in Verifying  projection_normal_init :  <nil>
+Init normal facet, distance:  -0.1946340680580872 &{{14 [-8001 12857 2947 -1832 -26661 13155 -11526 12535 -1605 23855 -6316 -3147 -18768 -8303] 1}} -4190 1100001011111101111111111111
+full valid inds:  [0 1 2 3 4 5 6 7 14 15]
+In init for index:  9
+Added element to facetpotpq  9
+Error in Proving  projection_normal_init :  <nil>
+Error in Proving  projection_normal_init :  <nil>
+Error in Verifying  projection_normal_init :  <nil>
+Init normal facet, distance:  -0.11078656204581429 &{{14 [-9123 13599 4011 -2402 -28971 12643 -15748 9745 -665 23727 -9230 -3359 -19018 -9831] 1}} -6260 1100001011111101111111111111
+Init facetpq len:  10
+Init facetpq len:  10
+Finding point for  &{{14 [529134 -788742 -232638 139316 1.680318e+06 -733294 913384 -565210 38570 -1.376166e+06 535340 194822 1.103044e+06 570198] 1}} 364092
+The found point is  [0.16702765284489315 0.3501080358915175 -0.38908370214511995 1.0072869342951467 0.06063840914590022 0.25002312087128264 0.02100017513228126 -0.12335605656455768 1.0780666405952066 0.08069215895059749 0.3573139704035902 0.25457642909629713 -0.17457137186493832 0.5869865107886907]
+fullA, fullb:  &{{42 14 [-97 107 -21 -58 -133 -61 -94 -45 149 125 -110 133 -86 -133 -4 7 -77 -20 98 -93 145 20 102 10 52 143 18 -18 -114 -79 -49 -127 -23 22 46 -92 46 -127 93 -122 -122 115 -120 77 93 -138 -33 -24 149 -47 -143 20 98 118 -137 133 53 -38 4 -32 -148 91 -36 119 -129 -3 25 81 41 43 -63 -135 -25 -51 -148 33 33 133 129 -118 -1 -45 91 -81 -10 42 35 17 -136 135 -41 120 -93 117 9 -97 -99 7 -106 103 136 -51 38 48 101 -26 133 -107 44 22 8 92 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -8001 12857 2947 -1832 -26661 13155 -11526 12535 -1605 23855 -6316 -3147 -18768 -8303 -9123 13599 4011 -2402 -28971 12643 -15748 9745 -665 23727 -9230 -3359 -19018 -9831 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -2.298996e+06 3.426948e+06 1.010772e+06 -605304 -7.300692e+06 3.186036e+06 -3.968496e+06 2.45574e+06 -167580 5.979204e+06 -2.32596e+06 -846468 -4.792536e+06 -2.477412e+06 -1.769862e+06 2.638206e+06 778134 -465988 -5.620374e+06 2.452742e+06 -3.055112e+06 1.89053e+06 -129010 4.603038e+06 -1.79062e+06 -651646 -3.689492e+06 -1.907214e+06 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0] 14} 42 14} &{{42 [55 148 -7 -149 -128 -58 -64 146 0 0 0 0 0 0 -4190 -6260 0 0 0 0 0 0 0 0 0 0 0 0 -1.577813e+06 -1.213721e+06 0 0 0 0 0 0 0 0 0 0 0 0] 1}}
+Init poly decision facets A & b:  &{{14 [529134 -788742 -232638 139316 1.680318e+06 -733294 913384 -565210 38570 -1.376166e+06 535340 194822 1.103044e+06 570198] 1}} 364092
+Linear mapa, linearmap b:  &{{2 14 [-2.298996e+06 3.426948e+06 1.010772e+06 -605304 -7.300692e+06 3.186036e+06 -3.968496e+06 2.45574e+06 -167580 5.979204e+06 -2.32596e+06 -846468 -4.792536e+06 -2.477412e+06 -1.769862e+06 2.638206e+06 778134 -465988 -5.620374e+06 2.452742e+06 -3.055112e+06 1.89053e+06 -129010 4.603038e+06 -1.79062e+06 -651646 -3.689492e+06 -1.907214e+06] 14} 2 14} &{{2 [1.577813e+06 1.213721e+06] 1}}
+logits, truelabel :  [-3.017760691e+09 -2.323197667e+09] 1
+Error in Proving  makeadv :  <nil>
+Error in Proving  makeadv :  <nil>
+Error in Verifying  makeadv :  <nil>
+Error in Proving  projection_decision_init :  constraint #2408 is not satisfied: [mustBeLessOrEq] 10944121435919637611123202872628637544274182200208017171849102094032372192892 <= 10944121435919637611123202872628637544274182200208017171849102093287916118826
+r1cs.(*builder).mustBeLessOrEqVar
+	api_assertions.go:95
+r1cs.(*builder).AssertIsLessOrEqual
+	api_assertions.go:88
+
+
+Error in Proving  projection_decision_init :  constraint #2408 is not satisfied: [mustBeLessOrEq] 10944121435919637611123202872628637544274182200208017171849102094032372192892 <= 10944121435919637611123202872628637544274182200208017171849102093287916118826
+r1cs.(*builder).mustBeLessOrEqVar
+	api_assertions.go:95
+r1cs.(*builder).AssertIsLessOrEqual
+	api_assertions.go:88
+
+
